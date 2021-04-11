@@ -147,7 +147,8 @@ h2.subtitle{
   border-radius: 20px;
   border: 5px solid #290000;
   /* this path is relative to the css files in the docs folder */
-  background-image: url("../media/verdan_dark.png");
+  /*background-image: url("../media/verdan_dark.png");*/
+  background-image: url("../media/vernon_med.png");
   background-repeat: no-repeat;
   background-position: bottom right;
   background-size: contain;
