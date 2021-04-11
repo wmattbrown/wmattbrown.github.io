@@ -14,5 +14,4 @@ system("cp -r ../vernon_gitbook/docs/* ./")
 
 system("git add .")
 system("git commit -m 'updating journal entries'")
-# run this command in the terminal. need to provide user name and password
-#system("git push -u origin main")
+system("git push -u origin main")
