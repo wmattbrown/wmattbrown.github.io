@@ -178,3 +178,11 @@ a:hover {
 blockquote{
   font-size:1em;
 }
+
+/* vernon and xaphan 'interview' styles */
+.xaphan{
+  color: #f00;
+}
+.vernon{
+  color: #fff;
+}
